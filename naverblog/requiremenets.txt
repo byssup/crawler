@@ -1,0 +1,7 @@
+scrapy
+pymongo
+pytz
+xmltodict
+beautifulsoup4
+scrapyd-client
+kafka-python
